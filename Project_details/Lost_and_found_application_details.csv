@@ -1,0 +1,6 @@
+ID,Type,Name,Description,Location,DropoffLocation,Status,ReporterEmail,CreatedAt
+"","found","iPhone 14 Pro","Black, in a clear case with a small crack on the back.","Library, 2nd Floor","Admin Office","invalid","user@example.com","2025-07-28T10:00:00.000Z"
+"","found","Blue Water Bottle","HydroFlask brand, covered in various stickers. One sticker is of a cat.","Cafeteria","Security Office","available","user@example.com","2025-07-27T14:30:00.000Z"
+"","lost","Car Keys","Toyota key fob with a small keychain that has a red heart.","Parking Lot B","","reported","user@example.com","2025-07-26T09:00:00.000Z"
+"","lost","Black iPhone","Has a clear case, the back is cracked.","Library Main Hall","","reported","jane@example.com","2025-07-28T11:00:00.000Z"
+"","found","Red Scarf","Wool scarf, looks handmade.","Student Union Bench","Student Union","available","test@example.com","2025-07-24T12:00:00.000Z"
